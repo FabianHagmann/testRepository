@@ -9,7 +9,7 @@ package hagmann;
  *
  * @author Fabian
  */
-public class test {
+public class lol {
 
     /**
      * @param args the command line arguments
